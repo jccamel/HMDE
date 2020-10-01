@@ -1,0 +1,22 @@
+{
+    "links": [
+        {
+            "vibbo": {
+                "ELECTRONICA_GIRONA": "https://www.vibbo.com/electronica-girona-particulares/?ca=17_s&x=1&w=1&c=102&o=",
+                "TELEFONIA_GIRONA": "https://www.vibbo.com/telefonia-moviles-de-segunda-mano-girona-particulares/?ca=17_s&x=1&w=1&c=23&o=",
+                "INFORMATICA_GIRONA": "https://www.vibbo.com/informatica-de-segunda-mano-girona-particulares/?ca=17_s&x=1&w=1&c=3&o=",
+                "IMAGEN&SONIDO_GIRONA": "https://www.vibbo.com/imagen-sonido-girona-particulares/?ca=17_s&x=1&w=1&c=22&o=",
+                "BICICLETAS_GIRONA": "https://www.vibbo.com/bicicletas-de-segunda-mano-girona-particulares/?ca=17_s&fPos=265&fOn=",
+
+                "ELECTRONICA_BARCELONA": "https://www.vibbo.com/electronica-barcelona-particulares/?ca=17_s&x=1&w=1&c=102&o="
+            },
+            "milanuncios": {
+                "INFORMATICA_GIRONA": "https://www.milanuncios.com/informatica-segunda-mano-en-girona/?fromSearch=1&orden=relevance&vendedor=part&pagina=",
+                "TELEFONIA_GIRONA": "https://www.milanuncios.com/telefonia-en-girona/?fromSearch=1&orden=relevance&vendedor=part&pagina=",
+                "BICICLETAS_GIRONA": "https://www.milanuncios.com/bicicletas-en-girona/?vendedor=part&pagina=",
+                "IMAGEN&SONIDO_GIRONA": "https://www.milanuncios.com/imagen-y-sonido-en-girona/?fromSearch=1&orden=relevance&vendedor=part&pagina=",
+                "INFORMATICA_BARCELONA": "https://www.milanuncios.com/informatica-segunda-mano-en-barcelona/?fromSearch=1&orden=relevance&vendedor=part&pagina="
+            }
+        }
+    ]
+}
